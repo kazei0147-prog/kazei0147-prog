@@ -120,9 +120,8 @@ World Model
 
 # 🏙️ Contribution Skyline
 
-
 <p align="center">
-<img width="100%" src="https://gpvc.arturwojnar.dev/kazei0147-prog?theme=github-dark&scale=5&color=36d399" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazei0147-prog&theme=github-dark&hide_border=true">
 </p>
 
 ---
