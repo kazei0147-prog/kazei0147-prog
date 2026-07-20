@@ -123,7 +123,7 @@ World Model
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kazei0147-prog&theme=github-dark">
+<img width="100%" src="https://github-profile-3d-contrib.vercel.app/api?username=kazei0147-prog&theme=github-dark&height_scale=6&color=36d399">
 
 </p>
 
