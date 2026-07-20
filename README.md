@@ -118,7 +118,7 @@ World Model
 
 ---
 
-# 🏙️ Contribution Skyline
+# 🌄 Contribution Timeline
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kazei0147-prog&theme=github-dark&hide_border=true">
